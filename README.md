@@ -9,6 +9,7 @@ from sklearn.metrics import classification_report
 plot_summaries = [
     "A group of friends embark on a thrilling adventure.",
     "A heartwarming tale of love and loss.",
+    "A cursed videotape brings death to anyone who watches it.",
     "An action-packed story of superheroes saving the world.",
     "A detective solves a mysterious murder case.",
     "A hilarious comedy about a family reunion gone wrong."
