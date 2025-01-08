@@ -13,7 +13,7 @@ plot_summaries = [
     "A detective solves a mysterious murder case.",
     "A hilarious comedy about a family reunion gone wrong."
 ]
-genres = ['Adventure', 'Romance', 'Action', 'Mystery', 'Comedy']
+genres = ['Adventure', 'Romance','Horror', 'Action', 'Mystery', 'Comedy']
 
 # Convert genres to numerical labels
 from sklearn.preprocessing import LabelEncoder
